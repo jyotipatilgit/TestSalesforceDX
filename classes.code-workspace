@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "D:\\Users\\jyopatil\\Desktop\\DXDemo\\testproject"
+		},
+		{
+			"name": "TestSalesforceDX",
+			"path": "D:\\Users\\jyopatil\\Desktop\\TestSalesforceDX"
+		}
+	],
+	"settings": {
+		"eslint.nodePath": "c:\\Users\\jyopatil\\.vscode\\extensions\\salesforce.salesforcedx-vscode-lwc-47.10.0\\node_modules"
+	}
+}
